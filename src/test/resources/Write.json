@@ -1,0 +1,15 @@
+{
+	"name": "Deepanraj",
+	"age": 27,
+	"status": true,
+	"courses": [
+		"Java",
+		"Selenium",
+		"Python"
+	],
+	"address": {
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India"
+	}
+}
